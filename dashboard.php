@@ -1,3 +1,8 @@
+//ini adalah salah satu tubes saya dan komentar ini adalah tugas penggunaan Tools Git dari matakuliah Wawasan Gllobal Teknologi Informasi.
+
+
+
+
 <?php
 session_start();
 include_once "koneksi.php";
@@ -392,3 +397,4 @@ switch (@$_GET['page']) {
 </body>
 
 </html>
+
